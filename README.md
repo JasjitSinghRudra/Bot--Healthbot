@@ -18,3 +18,12 @@ The status of Covid-19 vaccines, whether the stock is available or not can be ch
 D) Diagnostics
 
 This functionality provides a diagnostic report based on symptoms provided by the patient. It takes symptoms in comma separated values, reads and compares them to diseases and in result gives the disease that is matching with most symptoms.
+
+Steps
+(In case you're having problems setting up environment, here is youtube video I refered to while making this project)
+https://www.youtube.com/watch?v=G6LrH5dzBuY&list=LL&index=24&t=861s
+
+References
+
+-> Problems in case you want to modify code
+  https://stackoverflow.com/questions/66986172/nested-if-else-in-twilio
